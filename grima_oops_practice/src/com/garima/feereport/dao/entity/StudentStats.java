@@ -6,7 +6,7 @@ public class StudentStats {
     private String feeStatus;
 	private long amount;
 	
-	
+	 
 	
 	public Student getStudent() {
 		return student;

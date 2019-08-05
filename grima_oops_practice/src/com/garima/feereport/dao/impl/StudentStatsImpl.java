@@ -8,7 +8,7 @@ import com.garima.feereport.dao.IStudentStats;
 import com.garima.feereport.dao.entity.StudentStats;
 
 public class StudentStatsImpl implements IStudentStats  {
-
+ 
 	@Override
 	public FeeReport getFeeReport() {
 		

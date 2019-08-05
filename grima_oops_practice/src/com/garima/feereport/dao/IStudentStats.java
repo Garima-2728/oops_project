@@ -5,4 +5,4 @@ import com.garima.feereport.bo.FeeReport;
 public interface IStudentStats {
 	public FeeReport getFeeReport();
 	
-}
+} 

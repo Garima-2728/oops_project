@@ -6,5 +6,5 @@ public interface IStudentService {
 	public com.garima.feereport.bo.Student getStudent(int id);
 	public com.garima.feereport.bo.FeeReport getFeeReport(Student student);
 	
-
+ 
 }

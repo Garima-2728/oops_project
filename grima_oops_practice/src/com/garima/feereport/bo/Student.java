@@ -8,7 +8,7 @@ public class Student {
 	private Date dateOfBirth;
 	public int getRollNumber() {
 		return rollNumber;
-	}
+	} 
 	public void setRollNumber(int rollNumber) {
 		this.rollNumber = rollNumber;
 	}

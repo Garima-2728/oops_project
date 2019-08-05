@@ -8,7 +8,7 @@ public class StudentBoEntityMapper {
 	
 	public static Student convertBoToEntity(com.garima.feereport.bo.Student student) {
 		Student stdEntity = new Student(); 
-		String name = stdEntity.getName();
+		String name = stdEntity.getName(); 
 		stdEntity.setName(name);
 		return stdEntity;
 		

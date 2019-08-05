@@ -20,7 +20,7 @@ public class IStudentServiceImpl implements IStudentService {
 		return StudentBoEntityMapper.convertEntityToBo(studentdao.getStudent());
 		
 		
-		
+		 
 	}
 
 	@Override

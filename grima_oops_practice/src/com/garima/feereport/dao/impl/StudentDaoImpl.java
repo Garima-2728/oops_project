@@ -7,7 +7,7 @@ import com.garima.feereport.dao.entity.Student;
 
 public class StudentDaoImpl implements IStudentDao {
 	
-	
+	 
 
 	@Override
 	public Student getStudent() {

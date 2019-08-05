@@ -9,7 +9,7 @@ public class FeeReport {
 	private Date paidDate;
 	private long amount;
 	
-		
+		 
 	public Student getStudent() {
 		return student;
 	}

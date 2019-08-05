@@ -3,7 +3,7 @@ package com.garima.feereport.dao.entity;
 import java.util.Date;
 
 public class Student {
-	private int studentId;
+	private int studentId; 
 	private String name;
 	private String isActive;
 	private Date dateOfBirth;

@@ -8,6 +8,6 @@ public interface IStudentDao {
 	public Student getStudent();
 	public Student saveStudent();
 	public Student updateStudent();
-	
+	 
 
 }
